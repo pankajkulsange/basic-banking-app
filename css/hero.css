@@ -1,0 +1,12 @@
+.hero {
+  display: flex;
+  justify-content: center;
+}
+.hero__image {
+  height: 500px;
+  width: 500px;
+}
+.hero__content {
+  height: 500px;
+  width: 500px;
+}
