@@ -1,0 +1,9 @@
+* {
+  font-size: medium;
+}
+.container {
+  display: flex;
+}
+.table-heading {
+  text-align: center;
+}
