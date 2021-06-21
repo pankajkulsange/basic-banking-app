@@ -1,9 +1,10 @@
 * {
   font-size: medium;
 }
-.container {
-  display: flex;
-}
+
 .table-heading {
   text-align: center;
+}
+.h2 {
+  margin: auto auto;
 }

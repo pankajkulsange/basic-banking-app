@@ -1,5 +1,6 @@
 * {
   font-size: medium;
+  margin: auto;
 }
 .container {
   display: flex;
@@ -9,4 +10,7 @@
 }
 .button {
   margin: auto;
+}
+h2 {
+  text-align: center;
 }
